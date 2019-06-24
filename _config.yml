@@ -1,0 +1,24 @@
+# Site settings
+title: Gyepüvédők
+email: gyepuvedokdeli@gmail.com
+url: https://balintszoke.github.io/gyepuvedok_master/
+description: "Hagyományörző közösség"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Gyepüvédők
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: https://instagram.com/deligyepuvedok?igshid=g1b61gw9g2n2
+  - title: facebook
+    url: https://www.facebook.com/megyer.torzs
+    
+# Build settings
+markdown: kramdown
+permalink: pretty
